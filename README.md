@@ -1,4 +1,4 @@
-# HUBII microservice: HRV-02 pipeline
+# HUBII microservice: HRV-02 pipeline test-melis
 
 (Fast)API Pipeline for the processing of heart rate data from raw ECG signals towards HRV features.
 It can be deployed as a microservice locally and is also available to use via a web interface [here](https://hubii.world/hrv-pipeline-02/), on the HUBII Platform.
